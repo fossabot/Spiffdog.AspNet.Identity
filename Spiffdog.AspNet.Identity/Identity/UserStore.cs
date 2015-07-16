@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using Brade.AspNet.Identity.Dapper.Data;
 using Microsoft.AspNet.Identity;
 
-namespace Brade.AspNet.Identity.Dapper
+namespace Spiffdog.AspNet.Identity.Identity
 {
     public class UserStore<TUser> : 
         UserStore<TUser, IdentityRole, int, IdentityUserLogin, IdentityUserRole, IdentityUserClaim>, 
