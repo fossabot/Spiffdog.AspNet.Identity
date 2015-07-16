@@ -7,8 +7,8 @@
     <ProjectGuid>{5ECB5043-1C2E-470C-B97C-BA92E06A61E6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Brade.AspNet.Identity</RootNamespace>
-    <AssemblyName>Brade.AspNet.Identity</AssemblyName>
+    <RootNamespace>Spiffdog.AspNet.Identity</RootNamespace>
+    <AssemblyName>Spiffdog.AspNet.Identity</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
